@@ -10,7 +10,7 @@ namespace FoodLibrary
     {
         public string HowHungry(double hungryLevel)
         {
-            string x = "please insert a number within the paramaeters";
+            string x = "please insert a number within the parameters";
             string y = "please insert a digit within the parameters";
             string a = "click less";
             string b = "click more";
